@@ -39,7 +39,7 @@ public class StudentList {
 
     @Override
     public String toString() {
-        return String.format(format:"%s (%s)", name, address);
+        return String.format("%s (%s)", name, address);
     }
 
     /*
